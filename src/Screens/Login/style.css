@@ -1,0 +1,80 @@
+.secondiv {
+  background-color: linear-gradient(
+    214.41deg,
+    rgba(255, 118, 0, 0.6) 0%,
+    rgba(47, 73, 177, 0.6) 96.92%
+  );
+}
+.log {
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.text {
+  font-family: "Poppins";
+  font-weight: 700;
+  margin-top: 3%;
+}
+.log1 {
+  font-family: "Poppins";
+  font-weight: 400;
+}
+.googlediv {
+  margin-top: 3%;
+}
+.button {
+  border-radius: 40px !important;
+  width: 50% !important;
+  height: 10% !important;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+.log2 {
+  font-family: "Poppins";
+  font-weight: 600;
+  margin-left: 5%;
+  padding-top: 5%;
+}
+.logo {
+  width: 7%;
+  height: 7%;
+}
+.line {
+  display: flex;
+  margin-top: 3%;
+}
+.line1 {
+  width: 13%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.log3 {
+    font-family: "Poppins";
+    font-weight: 500;
+  color: grey ;
+}
+.logtext{
+    font-family: "Poppins";
+    font-weight: 600;
+}
+.logtext{
+    font-family: "Poppins";
+    font-weight: 600;
+}
+.logbutton{
+    border-radius: 40px !important;
+    width: 100%!important;
+    height: 20% !important;
+background-color: "#FF7906" !important;
+}    
+.log4{
+    font-family: "Poppins";
+    font-weight: 600;
+    color: white;
+    padding-top: 4%;
+}
+.log5{
+    font-family: "Poppins";
+    font-weight: 600;
+    margin-top: 3%;
+}

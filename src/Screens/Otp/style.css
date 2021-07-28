@@ -1,0 +1,22 @@
+.secondiv {
+    background-color: linear-gradient(
+      214.41deg,
+      rgba(255, 118, 0, 0.6) 0%,
+      rgba(47, 73, 177, 0.6) 96.92%
+    );
+  }
+  .otp1 {
+    margin-left: 10% ;
+    margin-top: 10% ;
+  }
+ .otp2{
+   margin-top: 4% ;
+ }
+ .otp3{
+   font-weight: bold;
+ }
+ .otp4{
+   font-family: "Poppins";
+   font-weight: 600;
+   margin-top: 10%;
+ }
