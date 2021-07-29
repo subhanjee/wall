@@ -5,7 +5,7 @@
       rgba(47, 73, 177, 0.6) 96.92%
     );
   }
-  .log {
+  .logsign {
     margin-left: 10%;
     margin-top: 3%;
   }
@@ -18,7 +18,7 @@
     font-family: "Poppins";
     font-weight: 400;
   }
-  .googlediv {
+  .googlesign {
     margin-top: -1%;
   }
   .button {
@@ -37,7 +37,7 @@
     
    
   }
-  .logo {
+  .logosign {
     width: 7%;
     height: 7%;
   }

@@ -7,7 +7,7 @@
 }
 .log {
   margin-left: 10%;
-  margin-top: 5%;
+  margin-top: 3% !important;
 }
 .text {
   font-family: "Poppins";
@@ -19,9 +19,9 @@
   font-weight: 400;
 }
 .googlediv {
-  margin-top: 3%;
+  margin-top: 2% !important;
 }
-.button {
+.button1 {
   border-radius: 40px !important;
   width: 50% !important;
   height: 10% !important;
@@ -39,9 +39,9 @@
   width: 7%;
   height: 7%;
 }
-.line {
+.linelog {
   display: flex;
-  margin-top: 3%;
+  margin-top: 2%;
 }
 .line1 {
   width: 13%;

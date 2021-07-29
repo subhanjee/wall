@@ -19,20 +19,20 @@ const backgroundStyle1 = {
   height: "100vh",
 };
 
-function Signup() {
+function Signup() { 
   return (
     <div style={{ height: "100vh" }}>
       <Row justify="center" className="align-items-stretch h-100">
         <Col xs={20} sm={20} md={24} lg={12}>
-          <div className="log">
+          <div className="logsign">
             <div>
               <img src="/log.png" alt="" />
             </div>
             <h2 className="text">Get Started with The Wall</h2>
             <p className="text1">Make a wish and get it done.</p>
-            <div className="googlediv">
+            <div className="googlesign">
               <Button className="button">
-                <img className="logo" src="/googleicon.png" alt="" />
+                <img className="logosign" src="/googleicon.png" alt="" />
                 <p className="text2">Sign in with Google</p>
               </Button>
               <div className="line">

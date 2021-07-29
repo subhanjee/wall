@@ -57,7 +57,7 @@ const NormalLoginForm = () => {
             message: "Please input your Password!",
           },
         ]}
-      >
+      > 
         <p className="ptext">Password*</p>
         <Input
           style={{ width: "387px", height: "50px", borderRadius: "32.5px", marginTop: "-2%" }}

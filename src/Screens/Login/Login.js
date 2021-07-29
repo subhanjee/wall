@@ -31,17 +31,17 @@ function Login() {
             <h1 className="text">Hi, Welcome Back!</h1>
             <p className="text1">Make a wish and get it done.</p>
             <div className="googlediv">
-              <Button className="button">
+              <Button className="button1">
                 <img className="logo" src="/googleicon.png" alt="" />
                 <p className="log2">Sign in with Google</p>
               </Button>
-              <div className="line">
-              <hr className="line1"/>
-             <p className="log3"> or Sign in with Email</p>
-              <hr className="line1"/>
+              <div className="linelog">
+                <hr className="line1" />
+                <p className="log3"> or Sign in with Email</p>
+                <hr className="line1" />
               </div>
-              <div style={{width:"50%"}}>
-                  <Loginform/>
+              <div style={{ width: "50%" }}>
+                <Loginform />
               </div>
             </div>
           </div>

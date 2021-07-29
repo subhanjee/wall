@@ -28,7 +28,7 @@ export default function Home() {
             </div>
             <div >
               <Input 
-                style={{ borderRadius: "32.5px", height: "30%", width: "100%" }}  
+                style={{ borderRadius: "32.5px", height: "30%", width: "150%" }}  
                 placeholder="Search..." 
               />
             </div>
