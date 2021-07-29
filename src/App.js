@@ -9,12 +9,11 @@ import {
 import Login from "./Screens/Login/Login";
 import Signup from "./Screens/Signup/Signup";
 import Otp from './Screens/Otp/Otp';
+import Home from './Screens/Home/Home';
 
 function App() {
   return (
     <Router>
-       <Redirect to="/signup" />
-    <div>
       <Switch>
         <Route path="/login">
           <Login />
@@ -25,8 +24,11 @@ function App() {
         <Route path="/otp">
           <Otp/>
         </Route>
+        <Route path="/home">
+       <Home/>
+        </Route>
+        <Redirect from="*" to="/login" />
       </Switch>
-    </div>
   </Router>
   );
 }
