@@ -28,7 +28,7 @@ function Login() {
             <div>
               <img src="/log.png" alt="" />
             </div>
-            <h1 className="text">Hi, Welcome Back!</h1>
+            <h2 className="text">Hi, Welcome Back!</h2>
             <p className="text1">Make a wish and get it done.</p>
             <div className="googlediv">
               <Button className="button">

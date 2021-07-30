@@ -12,14 +12,18 @@
 .text {
   font-family: "Poppins";
   font-weight: 700;
-  margin-top: 3%;
+}
+.text1 {
+  font-family: "Poppins";
+  font-weight: 700;
+  margin-top: -1%;
 }
 .log1 {
   font-family: "Poppins";
   font-weight: 400;
 }
-.googlediv {
-  margin-top: 3%;
+.googlediv{
+  margin-top: -2% !important;
 }
 .button {
   border-radius: 40px !important;
@@ -56,6 +60,7 @@
 .logtext{
     font-family: "Poppins";
     font-weight: 600;
+    margin-top: -3% !important;
 }
 .logtext{
     font-family: "Poppins";
@@ -77,4 +82,7 @@ background-color: "#FF7906" !important;
     font-family: "Poppins";
     font-weight: 600;
     margin-top: 3%;
+}
+.login-form{
+  margin-top: -2% !important;
 }
