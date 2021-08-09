@@ -33,8 +33,12 @@ export default function Home() {
               />
             </div>
             <div className="header2">
+              <div>
               <img src="/avatar.png" alt="" />
+              </div>
+              <div>
               <p className="headertext"> Hashir Khan</p>
+              </div>
             </div>
           </div>
         </Header>

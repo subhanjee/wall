@@ -20,6 +20,7 @@ const NormalLoginForm = () => {
   }
 
   return (
+    <div >
     <Form
       name='normal_login'
       className='login-form'
@@ -84,6 +85,7 @@ const NormalLoginForm = () => {
         </p>
       </Form.Item>
     </Form>
+    </div>
   );
 };
 

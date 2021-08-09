@@ -21,7 +21,7 @@ const backgroundStyle1 = {
 
 function Login() {
   return (
-    <div style={{ height: "100vh" }}>
+    <div style={{ maxHeight: "100vh" }}>
       <Row justify="center" className="align-items-stretch h-100">
         <Col xs={20} sm={20} md={24} lg={12}>
           <div className="log">
